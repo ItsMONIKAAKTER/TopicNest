@@ -1,0 +1,6 @@
+APP_NAME = 'TopicNest'
+EDITION = 'Python'
+AUTHOR = ''
+GITHUB = ''
+ACCENT = '#159d8c'
+VERSION = '3.0.1'
