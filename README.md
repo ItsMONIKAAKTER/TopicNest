@@ -1,4 +1,4 @@
-# TopicNest — Python Edition
+# TopicNest  Python Edition
 
 **Version 3.0.1** · Academic project selection, applications and supervision
 
